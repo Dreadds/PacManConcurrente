@@ -49,3 +49,16 @@ C:\Users\Dreads\Downloads\Compressed\tcpacman-master\ClientePacman\WindowsFormsA
 C:\Users\Dreads\Downloads\Compressed\tcpacman-master\ClientePacman\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.VentanaJuego.resources
 C:\Users\Dreads\Downloads\Compressed\tcpacman-master\ClientePacman\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\Dreads\Downloads\Compressed\tcpacman-master\ClientePacman\WindowsFormsApplication1\obj\Debug\ClientePacman.csproj.GenerateResource.Cache
+E:\Concurrente\ClientePacman\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Concurrente\ClientePacman\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Concurrente\ClientePacman\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Concurrente\ClientePacman\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Concurrente\ClientePacman\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Concurrente\ClientePacman\WindowsFormsApplication1\bin\Debug\LibreriaComunes.dll
+E:\Concurrente\ClientePacman\WindowsFormsApplication1\bin\Debug\LibreriaComunes.pdb
+E:\Concurrente\ClientePacman\WindowsFormsApplication1\obj\Debug\ClientePacman.csprojResolveAssemblyReference.cache
+E:\Concurrente\ClientePacman\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dialogoMensaje.resources
+E:\Concurrente\ClientePacman\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.VentanaInicio.resources
+E:\Concurrente\ClientePacman\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.VentanaJuego.resources
+E:\Concurrente\ClientePacman\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Concurrente\ClientePacman\WindowsFormsApplication1\obj\Debug\ClientePacman.csproj.GenerateResource.Cache

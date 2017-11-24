@@ -124,7 +124,7 @@
             // chbTeclado
             // 
             this.chbTeclado.AutoSize = true;
-            this.chbTeclado.Location = new System.Drawing.Point(13, 35);
+            this.chbTeclado.Location = new System.Drawing.Point(71, 35);
             this.chbTeclado.Name = "chbTeclado";
             this.chbTeclado.Size = new System.Drawing.Size(65, 17);
             this.chbTeclado.TabIndex = 0;
@@ -135,12 +135,12 @@
             // chbVoz
             // 
             this.chbVoz.AutoSize = true;
-            this.chbVoz.Location = new System.Drawing.Point(132, 35);
+            this.chbVoz.Location = new System.Drawing.Point(153, 35);
             this.chbVoz.Name = "chbVoz";
-            this.chbVoz.Size = new System.Drawing.Size(44, 17);
+            this.chbVoz.Size = new System.Drawing.Size(15, 14);
             this.chbVoz.TabIndex = 1;
-            this.chbVoz.Text = "Voz";
             this.chbVoz.UseVisualStyleBackColor = true;
+            this.chbVoz.Visible = false;
             this.chbVoz.CheckStateChanged += new System.EventHandler(this.chbVoz_CheckStateChanged);
             // 
             // VentanaInicio
@@ -177,7 +177,7 @@
         private System.Windows.Forms.Label lblName;
         private System.Windows.Forms.Button btnAceptar;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.CheckBox chbVoz;
         private System.Windows.Forms.CheckBox chbTeclado;
+        private System.Windows.Forms.CheckBox chbVoz;
     }
 }
