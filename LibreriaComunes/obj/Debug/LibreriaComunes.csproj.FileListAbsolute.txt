@@ -1,0 +1,14 @@
+d:\documents\visual studio 2015\Projects\WindowsFormsApplication5\LibreriaComunes\bin\Debug\LibreriaComunes.dll
+d:\documents\visual studio 2015\Projects\WindowsFormsApplication5\LibreriaComunes\bin\Debug\LibreriaComunes.pdb
+d:\documents\visual studio 2015\Projects\WindowsFormsApplication5\LibreriaComunes\obj\Debug\LibreriaComunes.dll
+d:\documents\visual studio 2015\Projects\WindowsFormsApplication5\LibreriaComunes\obj\Debug\LibreriaComunes.pdb
+D:\collab\tcpacman\LibreriaComunes\bin\Debug\LibreriaComunes.dll
+D:\collab\tcpacman\LibreriaComunes\bin\Debug\LibreriaComunes.pdb
+D:\collab\tcpacman\LibreriaComunes\obj\Debug\LibreriaComunes.csprojResolveAssemblyReference.cache
+D:\collab\tcpacman\LibreriaComunes\obj\Debug\LibreriaComunes.dll
+D:\collab\tcpacman\LibreriaComunes\obj\Debug\LibreriaComunes.pdb
+C:\Users\Juan\Desktop\tcpacman\LibreriaComunes\bin\Debug\LibreriaComunes.dll
+C:\Users\Juan\Desktop\tcpacman\LibreriaComunes\bin\Debug\LibreriaComunes.pdb
+C:\Users\Juan\Desktop\tcpacman\LibreriaComunes\obj\Debug\LibreriaComunes.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\tcpacman\LibreriaComunes\obj\Debug\LibreriaComunes.dll
+C:\Users\Juan\Desktop\tcpacman\LibreriaComunes\obj\Debug\LibreriaComunes.pdb
